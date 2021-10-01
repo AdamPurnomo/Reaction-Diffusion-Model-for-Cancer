@@ -9,11 +9,20 @@ Cancer Research, 56(24):5745-53. PMID: 8971186.
 ### Examples
 There are 3 treatment scenarios simulated in this project: with chemotherapy, with surgery, and with a combination of chemotherapy and surgery.
 
+* with sugery
+<p align="center">
+  <img width=75% height=75% src="https://github.com/AdamPurnomo/Reaction-Diffusion-Model-for-Cancer/blob/main/With%20Surgery.gif?raw=true">
+</p>
+
 * with chemotherapy 
 <p align="center">
   <img width=75% height=75% src="https://github.com/AdamPurnomo/Reaction-Diffusion-Model-for-Cancer/blob/main/With%20Chemo.gif?raw=true">
 </p>
 
+* with surgery and chemotherapy 
+<p align="center">
+  <img width=75% height=75% src="https://github.com/AdamPurnomo/Reaction-Diffusion-Model-for-Cancer/blob/main/With%20Surgery%20and%20Chemo.gif">
+</p>
 
 
 
