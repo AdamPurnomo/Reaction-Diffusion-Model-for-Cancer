@@ -11,17 +11,17 @@ There are 3 treatment scenarios simulated in this project: with chemotherapy, wi
 
 * with sugery
 <p align="center">
-  <img width=75% height=75% src="https://github.com/AdamPurnomo/Reaction-Diffusion-Model-for-Cancer/blob/main/With%20Surgery.gif?raw=true">
+  <img width=50% height=50% src="https://github.com/AdamPurnomo/Reaction-Diffusion-Model-for-Cancer/blob/main/With%20Surgery.gif?raw=true">
 </p>
 
 * with chemotherapy 
 <p align="center">
-  <img width=75% height=75% src="https://github.com/AdamPurnomo/Reaction-Diffusion-Model-for-Cancer/blob/main/With%20Chemo.gif?raw=true">
+  <img width=50% height=50% src="https://github.com/AdamPurnomo/Reaction-Diffusion-Model-for-Cancer/blob/main/With%20Chemo.gif?raw=true">
 </p>
 
 * with surgery and chemotherapy 
 <p align="center">
-  <img width=75% height=75% src="https://github.com/AdamPurnomo/Reaction-Diffusion-Model-for-Cancer/blob/main/With%20Surgery%20and%20Chemo.gif">
+  <img width=50% height=50% src="https://github.com/AdamPurnomo/Reaction-Diffusion-Model-for-Cancer/blob/main/With%20Surgery%20and%20Chemo.gif">
 </p>
 
 
